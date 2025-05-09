@@ -1,0 +1,11 @@
+street,state,country,building,lat,long,sc_id,sc_code,installation,unit,criticality,deployment_date,poc_name,poc_phone,poc_email
+Kisling Memorial Dr,Rheinland-Pfalz,Germany,BLDG 2200,49.4367,7.6003,SC001,EUCOM,Ramstein AB,86th CS,HIGH,2022-05-15,TSgt John Miller,DSN-314-478-5598,john.miller@us.af.mil
+Lincoln Blvd,Rheinland-Pfalz,Germany,BLDG 1100,49.4372,7.6010,SC001,EUCOM,Ramstein AB,86th CS,MEDIUM,2022-06-22,SSgt Sarah Johnson,DSN-314-478-6122,sarah.johnson@us.af.mil
+Mitchell Ave,Rheinland-Pfalz,Germany,BLDG 1,49.4380,7.6015,SC001,EUCOM,Ramstein AB,86th CS,CRITICAL,2022-04-10,MSgt David Wilson,DSN-314-478-7001,david.wilson@us.af.mil
+Gunston Rd,Virginia,USA,BLDG 1192,51.00,111.11,SC002,CONUS,Fort Belvoir,1110th SC,HIGH,2023-11-05,CPT Maria Garcia,703-555-1234,maria.garcia@army.mil
+Belvoir Woods Pkwy,Virginia,USA,BLDG 51,51.01,111.13,SC002,CONUS,Fort Belvoir,1110th SC,MEDIUM,2023-11-07,SFC Robert Chen,703-555-2345,robert.chen@army.mil
+9th Street,Virginia,USA,BLDG 1177,51.02,111.15,SC002,CONUS,Fort Belvoir,1110th SC,CRITICAL,2023-10-25,CW2 Thomas Wright,703-555-3456,thomas.wright@army.mil
+Ohio Strasse,Rheinland-Pfalz,Germany,BLDG 1500,49.7234,7.3498,SC003,EUCOM,Spangdahlem AB,52nd CS,CRITICAL,2023-02-18,TSgt Amanda Lee,DSN-314-452-7788,amanda.lee@us.af.mil
+Pennsylvania Strasse,Rheinland-Pfalz,Germany,BLDG 10,49.7234,7.3498,SC003,EUCOM,Spangdahlem AB,52nd CS,HIGH,2023-03-05,SSgt Kevin Barnes,DSN-314-452-6699,kevin.barnes@us.af.mil
+5th SOK Street,Adana,Turkey,BLDG 1,37.0021,35.4257,SC004,EUCOM,Incirlik AB,39th CS,CRITICAL,2024-01-15,TSgt Michael Kim,DSN-314-676-8901,michael.kim@us.af.mil
+E Street,Adana,Turkey,BLDG8,37.0035,35.4280,SC004,EUCOM,Incirlik AB,39th CS,MEDIUM,2024-01-20,SSgt Olivia Patel,DSN-314-676-9012,olivia.patel@us.af.mil
