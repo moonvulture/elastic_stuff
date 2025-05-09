@@ -1,0 +1,255 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "street": "Kisling Memorial Dr",
+          "state": "Rheinland-Pfalz",
+          "country": "Germany",
+          "building": "BLDG 2200",
+          "sc_id": "SC001",
+          "sc_code": "EUCOM",
+          "installation": "Ramstein AB",
+          "unit": "86th CS",
+          "criticality": "HIGH",
+          "deployment_date": "2022-05-15",
+          "poc_name": "TSgt John Miller",
+          "poc_phone": "DSN-314-478-5598",
+          "poc_email": "john.miller@us.af.mil"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.6003,
+            49.4367
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "street": "Lincoln Blvd",
+          "state": "Rheinland-Pfalz",
+          "country": "Germany",
+          "building": "BLDG 1100",
+          "sc_id": "SC001",
+          "sc_code": "EUCOM",
+          "installation": "Ramstein AB",
+          "unit": "86th CS",
+          "criticality": "MEDIUM",
+          "deployment_date": "2022-06-22",
+          "poc_name": "SSgt Sarah Johnson",
+          "poc_phone": "DSN-314-478-6122",
+          "poc_email": "sarah.johnson@us.af.mil"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.601,
+            49.4372
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "street": "Mitchell Ave",
+          "state": "Rheinland-Pfalz",
+          "country": "Germany",
+          "building": "BLDG 1",
+          "sc_id": "SC001",
+          "sc_code": "EUCOM",
+          "installation": "Ramstein AB",
+          "unit": "86th CS",
+          "criticality": "CRITICAL",
+          "deployment_date": "2022-04-10",
+          "poc_name": "MSgt David Wilson",
+          "poc_phone": "DSN-314-478-7001",
+          "poc_email": "david.wilson@us.af.mil"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.6015,
+            49.438
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "street": "Gunston Rd",
+          "state": "Virginia",
+          "country": "USA",
+          "building": "BLDG 1192",
+          "sc_id": "SC002",
+          "sc_code": "CONUS",
+          "installation": "Fort Belvoir",
+          "unit": "1110th SC",
+          "criticality": "HIGH",
+          "deployment_date": "2023-11-05",
+          "poc_name": "CPT Maria Garcia",
+          "poc_phone": "703-555-1234",
+          "poc_email": "maria.garcia@army.mil"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.11,
+            51
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "street": "Belvoir Woods Pkwy",
+          "state": "Virginia",
+          "country": "USA",
+          "building": "BLDG 51",
+          "sc_id": "SC002",
+          "sc_code": "CONUS",
+          "installation": "Fort Belvoir",
+          "unit": "1110th SC",
+          "criticality": "MEDIUM",
+          "deployment_date": "2023-11-07",
+          "poc_name": "SFC Robert Chen",
+          "poc_phone": "703-555-2345",
+          "poc_email": "robert.chen@army.mil"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.13,
+            51.01
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "street": "9th Street",
+          "state": "Virginia",
+          "country": "USA",
+          "building": "BLDG 1177",
+          "sc_id": "SC002",
+          "sc_code": "CONUS",
+          "installation": "Fort Belvoir",
+          "unit": "1110th SC",
+          "criticality": "CRITICAL",
+          "deployment_date": "2023-10-25",
+          "poc_name": "CW2 Thomas Wright",
+          "poc_phone": "703-555-3456",
+          "poc_email": "thomas.wright@army.mil"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            111.15,
+            51.02
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "street": "Ohio Strasse",
+          "state": "Rheinland-Pfalz",
+          "country": "Germany",
+          "building": "BLDG 1500",
+          "sc_id": "SC003",
+          "sc_code": "EUCOM",
+          "installation": "Spangdahlem AB",
+          "unit": "52nd CS",
+          "criticality": "CRITICAL",
+          "deployment_date": "2023-02-18",
+          "poc_name": "TSgt Amanda Lee",
+          "poc_phone": "DSN-314-452-7788",
+          "poc_email": "amanda.lee@us.af.mil"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.3498,
+            49.7234
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "street": "Pennsylvania Strasse",
+          "state": "Rheinland-Pfalz",
+          "country": "Germany",
+          "building": "BLDG 10",
+          "sc_id": "SC003",
+          "sc_code": "EUCOM",
+          "installation": "Spangdahlem AB",
+          "unit": "52nd CS",
+          "criticality": "HIGH",
+          "deployment_date": "2023-03-05",
+          "poc_name": "SSgt Kevin Barnes",
+          "poc_phone": "DSN-314-452-6699",
+          "poc_email": "kevin.barnes@us.af.mil"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            7.3498,
+            49.7234
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "street": "5th SOK Street",
+          "state": "Adana",
+          "country": "Turkey",
+          "building": "BLDG 1",
+          "sc_id": "SC004",
+          "sc_code": "EUCOM",
+          "installation": "Incirlik AB",
+          "unit": "39th CS",
+          "criticality": "CRITICAL",
+          "deployment_date": "2024-01-15",
+          "poc_name": "TSgt Michael Kim",
+          "poc_phone": "DSN-314-676-8901",
+          "poc_email": "michael.kim@us.af.mil"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.4257,
+            37.0021
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "street": "E Street",
+          "state": "Adana",
+          "country": "Turkey",
+          "building": "BLDG8",
+          "sc_id": "SC004",
+          "sc_code": "EUCOM",
+          "installation": "Incirlik AB",
+          "unit": "39th CS",
+          "criticality": "MEDIUM",
+          "deployment_date": "2024-01-20",
+          "poc_name": "SSgt Olivia Patel",
+          "poc_phone": "DSN-314-676-9012",
+          "poc_email": "olivia.patel@us.af.mil"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            35.428,
+            37.0035
+          ]
+        }
+      }
+    ]
+  }
