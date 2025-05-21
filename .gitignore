@@ -1,2 +1,4 @@
 .elastic/
 secrets.env
+.convertJson.py
+location*
